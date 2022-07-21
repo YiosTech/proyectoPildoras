@@ -18,3 +18,13 @@ p {
 img {
   height: 50vh;
 }
+
+.boton input {
+  padding: 0.8rem;
+  width: 8rem;
+  background-color: rgb(119, 9, 9);
+  border-radius: 5rem;
+  cursor: pointer;
+  font-size: 19px;
+  margin-bottom: 5rem;
+}
